@@ -10,4 +10,8 @@ public class Test03 {
        /* int l = s.indexOf("l");
         System.out.println(l);*/
     }
+    public void test(){
+        int a = 10;
+        System.out.println(a);
+    }
 }
